@@ -9,16 +9,7 @@ import 'swiper/css/pagination';
 function KeyboardSlider() {
   return (
     <section>
-      <h2
-        style={{
-          backgroundColor: '#FFFDBF',
-          padding: '0.5rem 1rem',
-          display: 'inline-block',
-          borderRadius: '8px',
-          fontWeight: 'bold',
-          fontSize: '1.2rem',
-        }}
-      >
+      <h2>
         키덕 PICK! 추천 키보드 💡
       </h2>
 

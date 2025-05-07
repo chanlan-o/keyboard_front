@@ -1,11 +1,9 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './Home';
-import './output.css';
-import Login from './Login';
-import Signup from './Signup';
+import Login from './pages/Login';
+import Signup from './pages/Signup';
 import KeyboardDetail from './KeyboardDetail';
-
 
 function App() {
   return (
